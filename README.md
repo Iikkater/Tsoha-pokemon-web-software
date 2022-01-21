@@ -6,7 +6,7 @@ On this web-software you can:
   2. search for pokemon to get info about it (number, name, type, stats, weaknesess, additional info)
   3. Like/Dislike pokemons and see the most liked and disliked pokemons.
   4. Leave comments about certain pokemon.
-  5. compare two pokemons to each other and get a mathematical prediction of which one would win if both are equal level (based on stats and type(s) comparison)
+  5. compare two pokemons to each other and get a mathematical prediction of which one would win in battle if both are equal level (based on stats and type(s) comparison)
   6. play pokemon quizzes 
             6.1. guess pokemon name by its number
             6.2. guess the type(s) of pokemon by its name
@@ -22,7 +22,7 @@ Users can:
   6. play quizzes
 
 Admins can (on top of what normal users can do):
-  1. Add new pokemons
-  2. Reset like/dislike counters
-  3. Hide/delete comments
+  1. add new pokemons
+  2. reset like/dislike counters
+  3. delete any comment
   4. reset leaderboards
